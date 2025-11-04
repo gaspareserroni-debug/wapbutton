@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/waButton"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:text="WA"
+        android:textStyle="bold"
+        android:elevation="8dp"
+        android:background="@android:drawable/btn_default"
+        android:layout_margin="12dp"/>
+</FrameLayout>
