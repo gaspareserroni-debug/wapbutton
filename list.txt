@@ -1,0 +1,40 @@
+ Il volume nell'unit… D Š Data
+ Numero di serie del volume: 26BA-E097
+
+ Directory di D:\google drive\pyt\WHATSAPP button
+
+04/11/2025  18:12    <DIR>          .
+04/11/2025  18:12    <DIR>          ..
+04/11/2025  18:06             1.338 AndroidManifest.xml
+04/11/2025  18:10               523 build.gradle
+04/11/2025  18:09             4.040 DialerOverlayService.kt
+04/11/2025  18:12                 0 list.txt
+04/11/2025  18:09             1.455 MainActivity.kt
+04/11/2025  18:08    <DIR>          res
+               5 File          7.356 byte
+
+ Directory di D:\google drive\pyt\WHATSAPP button\res
+
+04/11/2025  18:08    <DIR>          .
+04/11/2025  18:08    <DIR>          ..
+04/11/2025  18:08    <DIR>          layout
+04/11/2025  18:08    <DIR>          xml
+               0 File              0 byte
+
+ Directory di D:\google drive\pyt\WHATSAPP button\res\layout
+
+04/11/2025  18:08    <DIR>          .
+04/11/2025  18:08    <DIR>          ..
+04/11/2025  18:08               533 overlay_button.xml
+               1 File            533 byte
+
+ Directory di D:\google drive\pyt\WHATSAPP button\res\xml
+
+04/11/2025  18:08    <DIR>          .
+04/11/2025  18:08    <DIR>          ..
+04/11/2025  18:08               597 overlay_accessibility_service.xml
+               1 File            597 byte
+
+     Totale file elencati:
+               7 File          8.486 byte
+              11 Directory  437.735.989.248 byte disponibili
